@@ -767,7 +767,7 @@ export default function Portfolio() {
                                 target="_blank"
                                 rel="noopener noreferrer"
                               >
-                                View Details
+                                Source Code
                               </Button>
                             )}
                             {project.hasDemo && project.demoLink && (
