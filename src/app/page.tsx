@@ -229,7 +229,7 @@ export default function Portfolio() {
         "Framer Motion",
       ],
       hasDemo: true,
-      demoLink: "",
+      demoLink: "https://jhomari-portfolio.vercel.app/",
       detailLink: "https://github.com/Amaro018/my-profile2024",
     },
   ];
