@@ -368,6 +368,7 @@ export default function Portfolio() {
                       color="primary"
                       size="large"
                       onClick={() => scrollToSection("projects")}
+                      sx={{ mr: 2, mb: { xs: 2, sm: 0 } }}
                     >
                       View Work
                     </Button>
