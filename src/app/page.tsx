@@ -462,21 +462,21 @@ export default function Portfolio() {
                       variant="body1"
                       sx={{ mb: 3, color: "text.secondary" }}
                     >
-                      I&apos;m a passionate Full Stack Developer with 5 years of
-                      experience creating web applications that deliver
-                      exceptional user experiences. I specialize in building
-                      responsive, accessible, and performant applications using
-                      modern technologies.
+                      I&apos;m an aspiring Full Stack Developer with a strong
+                      passion for building web applications that provide great
+                      user experiences. I&apos;m continuously learning and
+                      improving my skills in modern technologies to create
+                      responsive and accessible applications.
                     </Typography>
                     <Typography
                       variant="body1"
                       sx={{ mb: 4, color: "text.secondary" }}
                     >
-                      My approach combines technical expertise with creative
-                      problem-solving to develop solutions that meet business
-                      objectives while delighting users. I&apos;m constantly
-                      learning and exploring new technologies to stay at the
-                      forefront of web development.
+                      I enjoy tackling challenges, writing clean code, and
+                      bringing ideas to life through development. While I&apos;m
+                      still growing in my journey, I&apos;m eager to contribute,
+                      collaborate, and build meaningful projects that make a
+                      difference.
                     </Typography>
 
                     <Grid container spacing={2}>
