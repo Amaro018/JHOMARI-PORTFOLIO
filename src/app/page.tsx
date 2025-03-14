@@ -32,7 +32,6 @@ import {
   Palette,
   Layout,
 } from "lucide-react";
-import { details } from "framer-motion/client";
 import MessageContact from "./components/MessageContact";
 
 // Create a theme instance
