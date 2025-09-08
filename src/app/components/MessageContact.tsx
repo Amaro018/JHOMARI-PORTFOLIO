@@ -36,6 +36,7 @@ export default function MessageContact({ fadeIn }: MessageContactProps) {
       console.log(response.data);
     } catch (error) {
       console.log(error);
+      toast.error("Failed to send email. Please try again.");
     } finally {
       setLoading(false);
     }
