@@ -473,7 +473,7 @@ export default function Portfolio() {
                       variant="body1"
                       sx={{ mb: 4, color: "text.secondary" }}
                     >
-                      I enjoy tackling challenges, writing clean code, and
+                      I enjoy tackling challenges that require creativity and
                       bringing ideas to life through development. While I&apos;m
                       still growing in my journey, I&apos;m eager to contribute,
                       collaborate, and build meaningful projects that make a
